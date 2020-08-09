@@ -1,0 +1,4 @@
+#Wed Jul 29 21:10:40 SGT 2020
+base.0=C\:\\Users\\barry\\AndroidStudioProjects\\HelloToast\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
